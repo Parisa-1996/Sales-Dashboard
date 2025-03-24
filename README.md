@@ -19,7 +19,7 @@ Create Slicers for Date, City, Product, and Channel: Enable users to interact wi
 
 ### Steps followed
 
-1)Gather Data
+ 1)Gather Data
 
 2) Power Querry – Data Extract, Transform & Load
 
